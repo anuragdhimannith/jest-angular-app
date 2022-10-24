@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'jest-angular-app';
+
+  sum(a: number, b: number) {
+    return a + b;
+  }
 }
