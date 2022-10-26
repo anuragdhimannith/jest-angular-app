@@ -1,25 +1,66 @@
 [
   {
     "id": 1,
-    "name": "Leanne Graham",
-    "username": "Bret",
-    "email": "Sincere@april.biz",
-    "address": {
-      "street": "Kulas Light",
-      "suite": "Apt. 556",
-      "city": "Gwenborough",
-      "zipcode": "92998-3874",
-      "geo": {
-        "lat": "-37.3159",
-        "lng": "81.1496"
-      }
-    },
-    "phone": "1-770-736-8031 x56442",
-    "website": "hildegard.org",
-    "company": {
-      "name": "Romaguera-Crona",
-      "catchPhrase": "Multi-layered client-server neural-net",
-      "bs": "harness real-time e-markets"
-    }
-  }  
+    "name": "Gopal Radhakrishnan",
+    "username": "RK",
+    "email": "gopal@random.com",
+    "phone": "346575767775",
+    "website": "gopal.org",
+   
+  },
+  
+   {
+    "id": 1,
+    "name": "Namratha S",
+    "username": "NS",
+    "email": "namratha@random.com",
+    "phone": "765476788745",
+    "website": "namratha.org",
+   
+  },
+   {
+    "id": 1,
+    "name": "Mehar Bandaru",
+    "username": "Meher",
+    "email": "meher@random.com",
+    "phone": "23434342342",
+    "website": "meher.org",
+   
+  },
+   {
+    "id": 1,
+    "name": "Ravikanth Kumar",
+    "username": "Ravi",
+    "email": "ravikanth@random.com",
+    "phone": "364366346363",
+    "website": "ravikanth.org",
+   
+  },
+   {
+    "id": 1,
+    "name": "Shruthi KV",
+    "username": "KV",
+    "email": "shruthi@random.com",
+    "phone": "35365757477",
+    "website": "shruthi.org",
+   
+  },
+   {
+    "id": 1,
+    "name": "Prashanth Khandagale",
+    "username": "Prashanth",
+    "email": "prashanth@random.com",
+    "phone": "53454636536",
+    "website": "prashanth.org",
+   
+  },
+   {
+    "id": 1,
+    "name": "Anurag Dhiman",
+    "username": "Anurag",
+    "email": "anurag@random.com",
+    "phone": "235346564646",
+    "website": "anurag.org",
+   
+  }
 ]
